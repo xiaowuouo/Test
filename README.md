@@ -1,2 +1,2 @@
 # Test
-学习如何使用github
+尝试使用github
